@@ -1,5 +1,3 @@
-# Ian Callegari Aragão
-
 ### Experience 
 1. RPA Developer Intern @ BRF
 2. IT Intern @ 300 Gestão
